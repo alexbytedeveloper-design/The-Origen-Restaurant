@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Origen">
+  <rect width="64" height="64" rx="14" fill="#14100D"/>
+  <path d="M14 52V28a18 18 0 0 1 36 0v24" fill="none" stroke="#C9A227" stroke-width="1.6" opacity="0.75"/>
+  <path d="M21 52V29a11 11 0 0 1 22 0v23" fill="none" stroke="#E0C878" stroke-width="0.9" opacity="0.45"/>
+  <text x="32" y="45" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#F4EDE4">O</text>
+</svg>

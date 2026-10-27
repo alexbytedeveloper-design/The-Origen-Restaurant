@@ -1,0 +1,2277 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-25T18:59:58.481Z",
+  "currency": "USD",
+  "categories": [
+    {
+      "id": "cocteleria",
+      "slug": "cocteleria",
+      "name": {
+        "es": "Coctelería",
+        "en": "Cocktails"
+      },
+      "tagline": {
+        "es": "Ron cubano, fruta de temporada y una mano de autor. La barra es el corazón de la casa.",
+        "en": "Cuban rum, seasonal fruit and a signature hand. The bar is the heart of the house."
+      },
+      "sortOrder": 0,
+      "sections": [
+        {
+          "id": "cocteleria-cocteleria-de-autor",
+          "name": {
+            "es": "Coctelería de Autor",
+            "en": "Signature Cocktails"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "el-bodegon-2",
+              "name": {
+                "es": "El Bodegón",
+                "en": "El Bodegón"
+              },
+              "description": {
+                "es": "Caramelo sin azúcar, jugo de piña con sirope de manzana, leche y esencia de coco.",
+                "en": "Sugar-free caramel, pineapple juice with apple syrup, milk and coconut essence."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/el-bodegon-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de El Bodegón",
+                "en": "Illustration of El Bodegón"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "golpe-bajo-2",
+              "name": {
+                "es": "Golpe Bajo",
+                "en": "Golpe Bajo"
+              },
+              "description": {
+                "es": "Tequila blanco, limón, jengibre y angostura en un trago directo, cítrico y especiado.",
+                "en": "Blanco tequila, lemon, ginger and Angostura in a direct, citrus and spicy drink."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/golpe-bajo-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Golpe Bajo",
+                "en": "Illustration of Golpe Bajo"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "coco-bay-2",
+              "name": {
+                "es": "Coco Bay",
+                "en": "Coco Bay"
+              },
+              "description": {
+                "es": "Cóctel cremoso y tropical con ron, coco, vainilla y un toque de limón.",
+                "en": "Creamy and tropical cocktail with rum, coconut, vanilla and a touch of lemon."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/coco-bay-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Coco Bay",
+                "en": "Illustration of Coco Bay"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            },
+            {
+              "id": "marley-sun-2",
+              "name": {
+                "es": "Marley Sun",
+                "en": "Marley Sun"
+              },
+              "description": {
+                "es": "Vodka, flor de Jamaica y piña en un trago frutal, floral y refrescante.",
+                "en": "Vodka, Jamaica flower and pineapple in a fruity, floral and refreshing drink."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/marley-sun-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Marley Sun",
+                "en": "Illustration of Marley Sun"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 3
+            },
+            {
+              "id": "natural-origen-2",
+              "name": {
+                "es": "Natural Origen",
+                "en": "Natural Origin"
+              },
+              "description": {
+                "es": "Creación fresca de la casa con perfil natural, ligero y equilibrado.",
+                "en": "Fresh creation of the house with natural, light and balanced profile."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/natural-origen-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Natural Origen",
+                "en": "Illustration of Natural Origin"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 4
+            },
+            {
+              "id": "black-widow-2",
+              "name": {
+                "es": "Black Widow",
+                "en": "Black Widow"
+              },
+              "description": {
+                "es": "Vodka, mora y lima en un trago intenso, fresco y afrutado.",
+                "en": "Vodka, blackberry and lime in a bold, fresh and fruity cocktail."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/black-widow-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Black Widow",
+                "en": "Illustration of Black Widow"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 5
+            }
+          ]
+        },
+        {
+          "id": "cocteleria-cocteleria-origen",
+          "name": {
+            "es": "Coctelería Origen",
+            "en": "Origen Cocktails"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "cuba-libre-2",
+              "name": {
+                "es": "Cuba Libre",
+                "en": "Cuba Libre"
+              },
+              "description": {
+                "es": "Ron cubano y refresco de cola servidos fríos en un trago largo.",
+                "en": "Cuban rum and cola served cold in a long drink."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/cuba-libre-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Cuba Libre",
+                "en": "Illustration of Cuba Libre"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "aperol-spritz-2",
+              "name": {
+                "es": "Aperol Spritz",
+                "en": "Aperol Spritz"
+              },
+              "description": {
+                "es": "Aperol, Prosecco y soda en un cóctel cítrico, ligero y burbujeante.",
+                "en": "Aperol, Prosecco and soda in a citrus, light and bubbly cocktail."
+              },
+              "price": 8,
+              "currency": "USD",
+              "image": "/images/dishes/aperol-spritz-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Aperol Spritz",
+                "en": "Illustration of Aperol Spritz"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "cubetazo-origen-2",
+              "name": {
+                "es": "Cubetazo Origen",
+                "en": "Origen Bucket"
+              },
+              "description": {
+                "es": "Selección de la casa en formato para compartir y disfrutar bien fría.",
+                "en": "House selection in format to share and enjoy cold."
+              },
+              "price": 10,
+              "currency": "USD",
+              "image": "/images/dishes/cubetazo-origen-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Cubetazo Origen",
+                "en": "Illustration of Origen Bucket"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            },
+            {
+              "id": "old-fashioned-2",
+              "name": {
+                "es": "Old Fashioned",
+                "en": "Old Fashioned"
+              },
+              "description": {
+                "es": "Whisky, azúcar y angostura en un clásico intenso y de final profundo.",
+                "en": "Whiskey, sugar and Angostura in an intense classic with a deep finish."
+              },
+              "price": 7,
+              "currency": "USD",
+              "image": "/images/dishes/old-fashioned-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Old Fashioned",
+                "en": "Illustration of Old Fashioned"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 3
+            },
+            {
+              "id": "gin-tonic-2",
+              "name": {
+                "es": "Gin Tonic",
+                "en": "Gin & Tonic"
+              },
+              "description": {
+                "es": "Ginebra y tónica servidas con hielo y un toque cítrico.",
+                "en": "Gin and tonic served with ice and a citrus touch."
+              },
+              "price": 8,
+              "currency": "USD",
+              "image": "/images/dishes/gin-tonic-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Gin Tonic",
+                "en": "Illustration of Gin & Tonic"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 4
+            },
+            {
+              "id": "long-island-iced-tea-2",
+              "name": {
+                "es": "Long Island Iced Tea",
+                "en": "Long Island Iced Tea"
+              },
+              "description": {
+                "es": "Mezcla intensa de destilados, cítricos y cola en un trago largo.",
+                "en": "Intense mix of spirits, citrus and cola in a long drink."
+              },
+              "price": 6,
+              "currency": "USD",
+              "image": "/images/dishes/long-island-iced-tea-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Long Island Iced Tea",
+                "en": "Illustration of Long Island Iced Tea"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 5
+            },
+            {
+              "id": "gin-tonic-terraza-2",
+              "name": {
+                "es": "Gin Tonic Terraza",
+                "en": "Terrace Gin & Tonic"
+              },
+              "description": {
+                "es": "Versión fresca de la casa con ginebra, tónica y notas aromáticas.",
+                "en": "Fresh version of the house with gin, tonic and aromatic notes."
+              },
+              "price": 7,
+              "currency": "USD",
+              "image": "/images/dishes/gin-tonic-terraza-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Gin Tonic Terraza",
+                "en": "Illustration of Terrace Gin & Tonic"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 6
+            },
+            {
+              "id": "calimocho-2",
+              "name": {
+                "es": "Calimocho",
+                "en": "Calimocho"
+              },
+              "description": {
+                "es": "Vino tinto y cola en una mezcla sencilla, fresca y frutal.",
+                "en": "Red wine and cola in a simple, fresh and fruity mix."
+              },
+              "price": 6,
+              "currency": "USD",
+              "image": "/images/dishes/calimocho-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Calimocho",
+                "en": "Illustration of Calimocho"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 7
+            },
+            {
+              "id": "fernet-con-cola-2",
+              "name": {
+                "es": "Fernet con Cola",
+                "en": "Fernet with Cola"
+              },
+              "description": {
+                "es": "Fernet herbal y amargo suavizado con refresco de cola.",
+                "en": "Herbal and bitter Fernet softened with cola."
+              },
+              "price": 7,
+              "currency": "USD",
+              "image": "/images/dishes/fernet-con-cola-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Fernet con Cola",
+                "en": "Illustration of Fernet with Cola"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 8
+            },
+            {
+              "id": "cubata-2",
+              "name": {
+                "es": "Cubata",
+                "en": "Cubata"
+              },
+              "description": {
+                "es": "Ron añejo y cola en un trago largo, profundo y redondo.",
+                "en": "Aged rum and cola in a long, deep and round drink."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/cubata-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Cubata",
+                "en": "Illustration of Cubata"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 9
+            },
+            {
+              "id": "negroni-2",
+              "name": {
+                "es": "Negroni",
+                "en": "Negroni"
+              },
+              "description": {
+                "es": "Ginebra, Campari y vermut rojo en un clásico amargo e intenso.",
+                "en": "Gin, Campari and red vermouth in a classic bitter and intense."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/negroni-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Negroni",
+                "en": "Illustration of Negroni"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 10
+            },
+            {
+              "id": "sangria-origen-2",
+              "name": {
+                "es": "Sangría Origen",
+                "en": "Origen Sangria"
+              },
+              "description": {
+                "es": "Vino tinto, frutas y notas cítricas en una sangría fresca de la casa.",
+                "en": "Red wine, fruits and citrus notes in a fresh house sangria."
+              },
+              "price": 6,
+              "currency": "USD",
+              "image": "/images/dishes/sangria-origen-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Sangría Origen",
+                "en": "Illustration of Origen Sangria"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 11
+            },
+            {
+              "id": "sangria-blanca-origen-2",
+              "name": {
+                "es": "Sangría Blanca Origen",
+                "en": "Origen White Sangria"
+              },
+              "description": {
+                "es": "Vino blanco y frutas frescas en una versión ligera y aromática.",
+                "en": "White wine and fresh fruits in a light and aromatic version."
+              },
+              "price": 6,
+              "currency": "USD",
+              "image": "/images/dishes/sangria-blanca-origen-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Sangría Blanca Origen",
+                "en": "Illustration of Origen White Sangria"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 12
+            },
+            {
+              "id": "canchanchara-2",
+              "name": {
+                "es": "Canchánchara",
+                "en": "Canchanchara"
+              },
+              "description": {
+                "es": "Aguardiente, miel y limón en un clásico cubano rústico y aromático.",
+                "en": "Brandy, honey and lemon in a rustic and aromatic Cuban classic."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/canchanchara-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Canchánchara",
+                "en": "Illustration of Canchanchara"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 13
+            },
+            {
+              "id": "dry-martini-2",
+              "name": {
+                "es": "Dry Martini",
+                "en": "Dry Martini"
+              },
+              "description": {
+                "es": "Ginebra y vermut seco en un cóctel frío, limpio y preciso.",
+                "en": "Gin and dry vermouth in a cold, clean and precise cocktail."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/dry-martini-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Dry Martini",
+                "en": "Illustration of Dry Martini"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 14
+            },
+            {
+              "id": "caipirinha-2",
+              "name": {
+                "es": "Caipirinha",
+                "en": "Caipirinha"
+              },
+              "description": {
+                "es": "Cachaça, lima y azúcar en un clásico brasileño vibrante.",
+                "en": "Cachaça, lime and sugar in a vibrant Brazilian classic."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/caipirinha-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Caipirinha",
+                "en": "Illustration of Caipirinha"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 15
+            },
+            {
+              "id": "margarita-2",
+              "name": {
+                "es": "Margarita",
+                "en": "Margarita"
+              },
+              "description": {
+                "es": "Tequila, triple sec y limón en una mezcla ácida, salina y refrescante.",
+                "en": "Tequila, triple sec and lemon in an acidic, saline and refreshing mix."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/margarita-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Margarita",
+                "en": "Illustration of Margarita"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 16
+            },
+            {
+              "id": "mojito-origen-2",
+              "name": {
+                "es": "Mojito Origen",
+                "en": "Origen Mojito"
+              },
+              "description": {
+                "es": "Ron, hierbabuena, limón y azúcar con el toque aromático de la casa.",
+                "en": "Rum, mint, lemon and sugar with the aromatic touch of the house."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/mojito-origen-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Mojito Origen",
+                "en": "Illustration of Origen Mojito"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 17
+            },
+            {
+              "id": "screwdriver-2",
+              "name": {
+                "es": "Screwdriver",
+                "en": "Screwdriver"
+              },
+              "description": {
+                "es": "Vodka y naranja en una combinación directa, frutal y refrescante.",
+                "en": "Vodka and orange in a direct, fruity and refreshing combination."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/screwdriver-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Screwdriver",
+                "en": "Illustration of Screwdriver"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 18
+            },
+            {
+              "id": "pina-colada-origen-2",
+              "name": {
+                "es": "Piña Colada Origen",
+                "en": "Origen Piña Colada"
+              },
+              "description": {
+                "es": "Ron, coco y piña en un cóctel tropical, cremoso y amable.",
+                "en": "Rum, coconut and pineapple in a tropical, creamy and friendly cocktail."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/pina-colada-origen-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Piña Colada Origen",
+                "en": "Illustration of Origen Piña Colada"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 19
+            },
+            {
+              "id": "caipiroska-2",
+              "name": {
+                "es": "Caipiroska",
+                "en": "Caipiroska"
+              },
+              "description": {
+                "es": "Vodka, lima y azúcar en una variación fresca de la caipirinha.",
+                "en": "Vodka, lime and sugar in a fresh variation of the caipirinha."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/caipiroska-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Caipiroska",
+                "en": "Illustration of Caipiroska"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 20
+            },
+            {
+              "id": "caipirisma-2",
+              "name": {
+                "es": "Caipirisma",
+                "en": "Caipirisma"
+              },
+              "description": {
+                "es": "Cóctel cítrico y refrescante inspirado en la caipirinha.",
+                "en": "Citrus and refreshing cocktail inspired by the caipirinha."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/caipirisma-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Caipirisma",
+                "en": "Illustration of Caipirisma"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 22
+            },
+            {
+              "id": "espresso-martini-2",
+              "name": {
+                "es": "Espresso Martini",
+                "en": "Espresso Martini"
+              },
+              "description": {
+                "es": "Vodka, café espresso y licor de café en un cóctel intenso y sedoso.",
+                "en": "Vodka, espresso and coffee liqueur in an intense and silky cocktail."
+              },
+              "price": 8,
+              "currency": "USD",
+              "image": "/images/dishes/espresso-martini-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Espresso Martini",
+                "en": "Illustration of Espresso Martini"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 24
+            },
+            {
+              "id": "daiquiri-2",
+              "name": {
+                "es": "Daiquiri",
+                "en": "Daiquiri"
+              },
+              "description": {
+                "es": "Ron blanco, limón y azúcar en un clásico cubano limpio y equilibrado.",
+                "en": "White rum, lemon and sugar in a clean and balanced Cuban classic."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/daiquiri-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Daiquiri",
+                "en": "Illustration of Daiquiri"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cervezas",
+      "slug": "cervezas",
+      "name": {
+        "es": "Cervezas",
+        "en": "Beers"
+      },
+      "tagline": {
+        "es": "Botellas bien frías y los servicios clásicos de la casa, servidos como manda la costumbre.",
+        "en": "Ice-cold bottles and the house's classic beer services, served the way tradition demands."
+      },
+      "sortOrder": 1,
+      "sections": [
+        {
+          "id": "cervezas-botellas",
+          "name": {
+            "es": "Cervezas",
+            "en": "Beers"
+          },
+          "showHeading": false,
+          "dishes": [
+            {
+              "id": "cerveza-cristal-botella",
+              "name": {
+                "es": "Cerveza Cristal Botella",
+                "en": "Cristal Beer (Bottle)"
+              },
+              "description": {
+                "es": "Cerveza clara, ligera y refrescante servida en botella.",
+                "en": "Clear, light and refreshing beer served in a bottle."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/cerveza-cristal-botella.webp",
+              "imageAlt": {
+                "es": "Ilustración de Cerveza Cristal Botella",
+                "en": "Illustration of Cristal Beer (Bottle)"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "cerveza-heineken",
+              "name": {
+                "es": "Cerveza Heineken",
+                "en": "Heineken Beer"
+              },
+              "description": {
+                "es": "Lager de perfil limpio, equilibrado y refrescante.",
+                "en": "Lager with a clean, balanced and refreshing profile."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/cerveza-heineken.webp",
+              "imageAlt": {
+                "es": "Ilustración de Cerveza Heineken",
+                "en": "Illustration of Heineken Beer"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "cerveza-stella",
+              "name": {
+                "es": "Cerveza Stella",
+                "en": "Stella Beer"
+              },
+              "description": {
+                "es": "Lager europea de cuerpo ligero y final suavemente amargo.",
+                "en": "European lager with a light body and gently bitter finish."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/cerveza-stella.webp",
+              "imageAlt": {
+                "es": "Ilustración de Cerveza Stella",
+                "en": "Illustration of Stella Beer"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "cervezas-servicios",
+          "name": {
+            "es": "Servicios",
+            "en": "Beer Services"
+          },
+          "showHeading": false,
+          "dishes": [
+            {
+              "id": "servicio-michelada-2",
+              "name": {
+                "es": "Servicio Michelada",
+                "en": "Michelada Service"
+              },
+              "description": {
+                "es": "Preparación especiada y cítrica para acompañar su cerveza.",
+                "en": "Spicy and citrus preparation to accompany your beer."
+              },
+              "price": 1.5,
+              "currency": "USD",
+              "image": "/images/dishes/servicio-michelada-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Servicio Michelada",
+                "en": "Illustration of Michelada Service"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 21
+            },
+            {
+              "id": "servicio-chelada-2",
+              "name": {
+                "es": "Servicio Chelada",
+                "en": "Chelada Service"
+              },
+              "description": {
+                "es": "Preparación de limón y sal para acompañar su cerveza.",
+                "en": "Preparation of lemon and salt to accompany your beer."
+              },
+              "price": 1,
+              "currency": "USD",
+              "image": "/images/dishes/servicio-chelada-2.webp",
+              "imageAlt": {
+                "es": "Ilustración de Servicio Chelada",
+                "en": "Illustration of Chelada Service"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sin-alcohol",
+      "slug": "sin-alcohol",
+      "name": {
+        "es": "Sin alcohol",
+        "en": "Soft Drinks"
+      },
+      "tagline": {
+        "es": "Limonadas, jugos y aguas para acompañar la mesa sin prisa.",
+        "en": "Lemonades, juices and waters to keep the table company."
+      },
+      "sortOrder": 2,
+      "sections": [
+        {
+          "id": "sin-alcohol",
+          "name": {
+            "es": "Líquidos Origen",
+            "en": "Origen Drinks"
+          },
+          "showHeading": false,
+          "dishes": [
+            {
+              "id": "limonada-origen",
+              "name": {
+                "es": "Limonada Origen",
+                "en": "Origen Lemonade"
+              },
+              "description": {
+                "es": "Limonada fresca de la casa con un perfil limpio y cítrico.",
+                "en": "Fresh house lemonade with a clean, citrus profile."
+              },
+              "price": 2,
+              "currency": "USD",
+              "image": "/images/dishes/limonada-origen.webp",
+              "imageAlt": {
+                "es": "Ilustración de Limonada Origen",
+                "en": "Illustration of Origen Lemonade"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "limonada-mega-mix",
+              "name": {
+                "es": "Limonada Mega Mix",
+                "en": "Mega Mix Lemonade"
+              },
+              "description": {
+                "es": "Limonada de la casa con mezcla frutal y carácter refrescante.",
+                "en": "House lemonade with a fruity mix and refreshing character."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/limonada-mega-mix.webp",
+              "imageAlt": {
+                "es": "Ilustración de Limonada Mega Mix",
+                "en": "Illustration of Mega Mix Lemonade"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "agua-gaseada",
+              "name": {
+                "es": "Agua Gaseada",
+                "en": "Sparkling Water"
+              },
+              "description": {
+                "es": "Agua refrescante con gas.",
+                "en": "Refreshing sparkling water."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/agua-gaseada.webp",
+              "imageAlt": {
+                "es": "Ilustración de Agua Gaseada",
+                "en": "Illustration of Sparkling Water"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            },
+            {
+              "id": "pepsi-cola",
+              "name": {
+                "es": "Pepsi Cola",
+                "en": "Pepsi Cola"
+              },
+              "description": {
+                "es": "Refresco de cola servido bien frío.",
+                "en": "Cola soft drink served very cold."
+              },
+              "price": 2.5,
+              "currency": "USD",
+              "image": "/images/dishes/pepsi-cola.webp",
+              "imageAlt": {
+                "es": "Ilustración de Pepsi Cola",
+                "en": "Illustration of Pepsi Cola"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 3
+            },
+            {
+              "id": "agua-dea-250-ml",
+              "name": {
+                "es": "Agua Dea (250 ml)",
+                "en": "Dea Water (250 ml)"
+              },
+              "description": {
+                "es": "Agua mineral en presentación de 250 ml.",
+                "en": "Mineral water in 250 ml presentation."
+              },
+              "price": 2,
+              "currency": "USD",
+              "image": "/images/dishes/agua-dea-250-ml.webp",
+              "imageAlt": {
+                "es": "Ilustración de Agua Dea (250 ml)",
+                "en": "Illustration of Dea Water (250 ml)"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 4
+            },
+            {
+              "id": "jugo-natural",
+              "name": {
+                "es": "Jugo Natural",
+                "en": "Fresh Juice"
+              },
+              "description": {
+                "es": "Jugo fresco preparado con fruta natural.",
+                "en": "Fresh juice prepared with natural fruit."
+              },
+              "price": 1.5,
+              "currency": "USD",
+              "image": "/images/dishes/jugo-natural.webp",
+              "imageAlt": {
+                "es": "Ilustración de Jugo Natural",
+                "en": "Illustration of Fresh Juice"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entrantes",
+      "slug": "entrantes",
+      "name": {
+        "es": "Entrantes",
+        "en": "Starters"
+      },
+      "tagline": {
+        "es": "Para abrir la mesa y compartir sin prisa: bocados frescos, cálidos y con acento cubano.",
+        "en": "To open the table and share without hurry: fresh, warm bites with a Cuban accent."
+      },
+      "sortOrder": 3,
+      "sections": [
+        {
+          "id": "entrantes-vegetariano-y-fresco",
+          "name": {
+            "es": "Vegetariano & Fresco",
+            "en": "Vegetarian & Fresh"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "pimientos-del-piquillo-rellenos",
+              "name": {
+                "es": "Pimientos del Piquillo Rellenos",
+                "en": "Stuffed Piquillo Peppers"
+              },
+              "description": {
+                "es": "Pimientos del piquillo asados, rellenos con una preparación rica y delicada.",
+                "en": "Roasted piquillo peppers, stuffed with a rich and delicate preparation."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/pimientos-del-piquillo-rellenos.webp",
+              "imageAlt": {
+                "es": "Ilustración de Pimientos del Piquillo Rellenos",
+                "en": "Illustration of Stuffed Piquillo Peppers"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "pan-tostado-con-tomate",
+              "name": {
+                "es": "Pan Tostado con Tomate",
+                "en": "Toasted Bread with Tomato"
+              },
+              "description": {
+                "es": "Pan crujiente con tomate fresco triturado, aceite de oliva virgen extra y un toque de sal marina.",
+                "en": "Crispy bread with fresh crushed tomato, extra virgin olive oil and a touch of sea salt."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/pan-tostado-con-tomate.webp",
+              "imageAlt": {
+                "es": "Ilustración de Pan Tostado con Tomate",
+                "en": "Illustration of Toasted Bread with Tomato"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "ensalada-mixta",
+              "name": {
+                "es": "Ensalada Mixta",
+                "en": "Mixed Salad"
+              },
+              "description": {
+                "es": "Lechuga fresca, tomates maduros y cebolla delicada; ligera, crujiente y naturalmente refrescante.",
+                "en": "Fresh lettuce, ripe tomatoes and delicate onion; light, crisp and naturally refreshing."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/ensalada-mixta.webp",
+              "imageAlt": {
+                "es": "Ilustración de Ensalada Mixta",
+                "en": "Illustration of Mixed Salad"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            },
+            {
+              "id": "gazpacho-de-remolacha",
+              "name": {
+                "es": "Gazpacho de Remolacha",
+                "en": "Beet Gazpacho"
+              },
+              "description": {
+                "es": "Crema fría de remolacha con tomate, pepino y un toque de limón; fresca, ligera y de sabor delicadamente dulce.",
+                "en": "Cold beet cream with tomato, cucumber and a touch of lemon; fresh, light and with a delicately sweet flavor."
+              },
+              "price": 1.5,
+              "currency": "USD",
+              "image": "/images/dishes/gazpacho-de-remolacha.webp",
+              "imageAlt": {
+                "es": "Ilustración de Gazpacho de Remolacha",
+                "en": "Illustration of Beet Gazpacho"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": "entrantes-quesos-y-ensaladas",
+          "name": {
+            "es": "Quesos & Ensaladas",
+            "en": "Cheeses & Salads"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "tabla-de-queso-manchego-curado",
+              "name": {
+                "es": "Tabla de Queso Manchego Curado",
+                "en": "Cured Manchego Cheese Board"
+              },
+              "description": {
+                "es": "Queso manchego maduro, de sabor profundo, notas de frutos secos y textura firme.",
+                "en": "Ripe Manchego cheese, with a deep flavor, notes of nuts and firm texture."
+              },
+              "price": 8,
+              "currency": "USD",
+              "image": "/images/dishes/tabla-de-queso-manchego-curado.webp",
+              "imageAlt": {
+                "es": "Ilustración de Tabla de Queso Manchego Curado",
+                "en": "Illustration of Cured Manchego Cheese Board"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "ensalada-argentina-de-steak",
+              "name": {
+                "es": "Ensalada Argentina de Steak",
+                "en": "Argentine Steak Salad"
+              },
+              "description": {
+                "es": "Ensalada de carne argentina con queso azul y vinagreta Origen; intensa, fresca y refinada.",
+                "en": "Argentine meat salad with blue cheese and Origen vinaigrette; intense, fresh and refined."
+              },
+              "price": 12,
+              "currency": "USD",
+              "image": "/images/dishes/ensalada-argentina-de-steak.webp",
+              "imageAlt": {
+                "es": "Ilustración de Ensalada Argentina de Steak",
+                "en": "Illustration of Argentine Steak Salad"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "ensalada-cesar-clasica",
+              "name": {
+                "es": "Ensalada César Clásica",
+                "en": "Classic Caesar Salad"
+              },
+              "description": {
+                "es": "Hojas frescas con salsa César sedosa, queso pecorino, bacon crujiente y croutons.",
+                "en": "Fresh leaves with silky Caesar sauce, pecorino cheese, crispy bacon and croutons."
+              },
+              "price": 7,
+              "currency": "USD",
+              "image": "/images/dishes/ensalada-cesar-clasica.webp",
+              "imageAlt": {
+                "es": "Ilustración de Ensalada César Clásica",
+                "en": "Illustration of Classic Caesar Salad"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            },
+            {
+              "id": "ensalada-burrata-ahumada",
+              "name": {
+                "es": "Ensalada Burrata Ahumada",
+                "en": "Smoked Burrata Salad"
+              },
+              "description": {
+                "es": "Burrata ligeramente ahumada con tomates frescos de temporada y aliño suave que realza su cremosidad.",
+                "en": "Lightly smoked burrata with fresh seasonal tomatoes and a mild dressing that enhances its creaminess."
+              },
+              "price": 10,
+              "currency": "USD",
+              "image": "/images/dishes/ensalada-burrata-ahumada.webp",
+              "imageAlt": {
+                "es": "Ilustración de Ensalada Burrata Ahumada",
+                "en": "Illustration of Smoked Burrata Salad"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 3
+            },
+            {
+              "id": "azul-y-berenjena",
+              "name": {
+                "es": "Azul y Berenjena",
+                "en": "Blue Cheese & Eggplant"
+              },
+              "description": {
+                "es": "Berenjena asada con queso azul fundente, cebolla caramelizada y un crujiente de nueces; una combinación suave, intensa y ligeramente dulce.",
+                "en": "Roasted eggplant with melted blue cheese, caramelized onion and crunchy walnuts; a smooth, bold and slightly sweet combination."
+              },
+              "price": 6,
+              "currency": "USD",
+              "image": "/images/dishes/azul-y-berenjena.webp",
+              "imageAlt": {
+                "es": "Ilustración de Azul y Berenjena",
+                "en": "Illustration of Blue Cheese & Eggplant"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "id": "entrantes-pescados-y-mariscos",
+          "name": {
+            "es": "Pescados & Mariscos",
+            "en": "Fish & Seafood"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "gambas-al-ajillo",
+              "name": {
+                "es": "Gambas al Ajillo",
+                "en": "Garlic Prawns"
+              },
+              "description": {
+                "es": "Gambas jugosas cocinadas suavemente con ajo, aceite de oliva y chili.",
+                "en": "Juicy prawns gently cooked with garlic, olive oil and chili."
+              },
+              "price": 9,
+              "currency": "USD",
+              "image": "/images/dishes/gambas-al-ajillo.webp",
+              "imageAlt": {
+                "es": "Ilustración de Gambas al Ajillo",
+                "en": "Illustration of Garlic Prawns"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "ceviche-estilo-chef",
+              "name": {
+                "es": "Ceviche Estilo Chef",
+                "en": "Chef Style Ceviche"
+              },
+              "description": {
+                "es": "Pescado blanco fresco curado en lima con mango, ajo, jengibre y cebolla morada, servido con boniato frito crujiente y delicada leche de tigre de ají dulce.",
+                "en": "Fresh white fish cured in lime with mango, garlic, ginger and red onion, served with crispy fried sweet potato and delicate sweet chili tiger milk."
+              },
+              "price": 7,
+              "currency": "USD",
+              "image": "/images/dishes/ceviche-estilo-chef.webp",
+              "imageAlt": {
+                "es": "Ilustración de Ceviche Estilo Chef",
+                "en": "Illustration of Chef Style Ceviche"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "id": "entrantes-cerdo-y-ibericos",
+          "name": {
+            "es": "Cerdo & Ibéricos",
+            "en": "Pork & Iberian Specialties"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "potito-iberico",
+              "name": {
+                "es": "Potito Ibérico",
+                "en": "Iberian Potito"
+              },
+              "description": {
+                "es": "Cremoso puré de patata con jamón ibérico, huevo suave y un toque de aceite de oliva, servido en un pequeño potito lleno de sabor.",
+                "en": "Creamy mashed potato with Iberian ham, a soft egg and a touch of olive oil, served in a small pot full of flavor."
+              },
+              "price": 9,
+              "currency": "USD",
+              "image": "/images/dishes/potito-iberico.webp",
+              "imageAlt": {
+                "es": "Ilustración de Potito Ibérico",
+                "en": "Illustration of Iberian Potito"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "chorizo-espanol-al-vino-tinto",
+              "name": {
+                "es": "Chorizo Español al Vino Tinto",
+                "en": "Spanish Chorizo with Red Wine"
+              },
+              "description": {
+                "es": "Chorizo español cocinado lentamente en una salsa profunda y aromática de vino tinto.",
+                "en": "Spanish chorizo slow cooked in a deep, aromatic red wine sauce."
+              },
+              "price": 6,
+              "currency": "USD",
+              "image": "/images/dishes/chorizo-espanol-al-vino-tinto.webp",
+              "imageAlt": {
+                "es": "Ilustración de Chorizo Español al Vino Tinto",
+                "en": "Illustration of Spanish Chorizo with Red Wine"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "entrantes-carnes",
+          "name": {
+            "es": "Carnes",
+            "en": "Meats"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "empanadas-argentinas-de-carne",
+              "name": {
+                "es": "Empanadas Argentinas de Carne",
+                "en": "Argentine Meat Empanadas"
+              },
+              "description": {
+                "es": "Masa dorada rellena de carne argentina premium cocinada lentamente.",
+                "en": "Golden dough filled with slow-cooked premium Argentine meat."
+              },
+              "price": 6,
+              "currency": "USD",
+              "image": "/images/dishes/empanadas-argentinas-de-carne.webp",
+              "imageAlt": {
+                "es": "Ilustración de Empanadas Argentinas de Carne",
+                "en": "Illustration of Argentine Meat Empanadas"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "carpaccio-premium-de-res-argentina",
+              "name": {
+                "es": "Carpaccio Premium de Res Argentina",
+                "en": "Premium Argentine Beef Carpaccio"
+              },
+              "description": {
+                "es": "Finas láminas de res argentina premium con rúcula, alcaparras, jugo de limón y aceite de oliva virgen extra.",
+                "en": "Thin slices of premium Argentine beef with arugula, capers, lemon juice and extra virgin olive oil."
+              },
+              "price": 15,
+              "currency": "USD",
+              "image": "/images/dishes/carpaccio-premium-de-res-argentina.webp",
+              "imageAlt": {
+                "es": "Ilustración de Carpaccio Premium de Res Argentina",
+                "en": "Illustration of Premium Argentine Beef Carpaccio"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 4
+            },
+            {
+              "id": "tabla-iberica-de-bellota",
+              "name": {
+                "es": "Tabla Ibérica de Bellota",
+                "en": "Acorn-Fed Iberian Platter"
+              },
+              "description": {
+                "es": "Embutidos ibéricos premium de bellota, finamente cortados, ricos y de textura fundente.",
+                "en": "Premium Iberian acorn-fed sausages, finely cut, rich and melting in texture."
+              },
+              "price": 16,
+              "currency": "USD",
+              "image": "/images/dishes/tabla-iberica-de-bellota.webp",
+              "imageAlt": {
+                "es": "Ilustración de Tabla Ibérica de Bellota",
+                "en": "Illustration of Acorn-Fed Iberian Platter"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sugerencias-del-chef",
+      "slug": "sugerencias-del-chef",
+      "name": {
+        "es": "Sugerencias del Chef",
+        "en": "Chef's Recommendations"
+      },
+      "tagline": {
+        "es": "Lo que la cocina quiere que pruebes hoy. Cambia con el mercado y con el fuego.",
+        "en": "What the kitchen wants you to taste today. It changes with the market and the fire."
+      },
+      "sortOrder": 4,
+      "sections": [
+        {
+          "id": "sugerencias-del-chef-sugerencias-del-chef",
+          "name": {
+            "es": "Sugerencias del Chef",
+            "en": "Chef's Recommendations"
+          },
+          "showHeading": false,
+          "dishes": [
+            {
+              "id": "risotto-de-funghi-con-solomillo",
+              "name": {
+                "es": "Risotto de Funghi con Solomillo",
+                "en": "Wild Mushroom Risotto with Beef Tenderloin"
+              },
+              "description": {
+                "es": "Cremoso risotto de hongos silvestres, acompañado de tiernos medallones de solomillo, terminado con parmesano y un toque de hierbas frescas.",
+                "en": "Creamy wild mushroom risotto served with tender beef tenderloin medallions, finished with Parmesan and a touch of fresh herbs."
+              },
+              "price": 15,
+              "currency": "USD",
+              "image": "/images/dishes/risotto-de-funghi-con-solomillo.webp",
+              "imageAlt": {
+                "es": "Ilustración de Risotto de Funghi con Solomillo",
+                "en": "Illustration of Wild Mushroom Risotto with Beef Tenderloin"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "pasta-de-salmon-al-vodka",
+              "name": {
+                "es": "Pasta de salmón al vodka",
+                "en": "Salmon Pasta in Vodka Sauce"
+              },
+              "description": {
+                "es": "Pasta en cremosa salsa de vodka, salmón fresco y un toque de hierbas, con un equilibrio perfecto entre suavidad y sabor.",
+                "en": "Pasta in a creamy vodka sauce with fresh salmon and a touch of herbs, perfectly balancing smoothness and flavor."
+              },
+              "price": 10,
+              "currency": "USD",
+              "image": "/images/dishes/pasta-de-salmon-al-vodka.webp",
+              "imageAlt": {
+                "es": "Ilustración de Pasta de salmón al vodka",
+                "en": "Illustration of Salmon Pasta in Vodka Sauce"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "platos-principales",
+      "slug": "platos-principales",
+      "name": {
+        "es": "Platos Principales",
+        "en": "Main Courses"
+      },
+      "tagline": {
+        "es": "Fuego, brasa y producto que habla por sí solo. Cortes a la piedra y clásicos de autor.",
+        "en": "Fire, embers and produce that speaks for itself. Stone-grilled cuts and signature classics."
+      },
+      "sortOrder": 5,
+      "sections": [
+        {
+          "id": "platos-principales-cortes-a-la-piedra",
+          "name": {
+            "es": "Cortes a la Piedra",
+            "en": "Stone-Grilled Cuts"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "sirloin-steak-200-g",
+              "name": {
+                "es": "Sirloin Steak / 200 g",
+                "en": "Sirloin Steak / 200 g"
+              },
+              "description": {
+                "es": "Sirloin premium, preparado con precisión y presentado sobre una piedra negra caliente.",
+                "en": "Premium sirloin, prepared with precision and presented on a hot black stone."
+              },
+              "price": 25,
+              "currency": "USD",
+              "image": "/images/dishes/sirloin-steak-200-g.webp",
+              "imageAlt": {
+                "es": "Ilustración de Sirloin Steak / 200 g",
+                "en": "Illustration of Sirloin Steak / 200 g"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "ribeye-200-g",
+              "name": {
+                "es": "Ribeye / 200 g",
+                "en": "Ribeye / 200 g"
+              },
+              "description": {
+                "es": "Ribeye premium sellado y servido sobre piedra negra ardiente, liberando su marmoleo, riqueza y sabor profundo.",
+                "en": "Premium ribeye sealed and served on burning black stone, releasing its marbling, richness and deep flavor."
+              },
+              "price": 25,
+              "currency": "USD",
+              "image": "/images/dishes/ribeye-200-g.webp",
+              "imageAlt": {
+                "es": "Ilustración de Ribeye / 200 g",
+                "en": "Illustration of Ribeye / 200 g"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "filete-de-res-200-g",
+              "name": {
+                "es": "Filete de Res / 200 g",
+                "en": "Beef Steak / 200 g"
+              },
+              "description": {
+                "es": "Filete de res premium, sellado y terminado sobre piedra negra ardiente, con ternura excepcional y sabor intenso.",
+                "en": "Premium beef steak, seared and finished on a burning black stone, with exceptional tenderness and intense flavor."
+              },
+              "price": 28,
+              "currency": "USD",
+              "image": "/images/dishes/filete-de-res-200-g.webp",
+              "imageAlt": {
+                "es": "Ilustración de Filete de Res / 200 g",
+                "en": "Illustration of Beef Steak / 200 g"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            },
+            {
+              "id": "servicio-incluido",
+              "name": {
+                "es": "Servicio incluido",
+                "en": "Service included"
+              },
+              "description": {
+                "es": "Todas las selecciones de carne se sirven con patatas fritas doradas, ensalada fresca y chimichurri argentino casero.",
+                "en": "All meat selections are served with golden fries, fresh salad and homemade Argentine chimichurri."
+              },
+              "price": null,
+              "currency": "USD",
+              "image": null,
+              "imageAlt": null,
+              "isRecommended": false,
+              "isNote": true,
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": "platos-principales-principales-de-autor",
+          "name": {
+            "es": "Principales de Autor",
+            "en": "Signature Mains"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "curry-signature-origen",
+              "name": {
+                "es": "Curry Signature Origen",
+                "en": "Origen Signature Curry"
+              },
+              "description": {
+                "es": "Pechuga de pollo asada con arroz jazmín y curry rojo artesanal elaborado con ajíes dulces cubanos y leche de coco.",
+                "en": "Roasted chicken breast with jasmine rice and artisanal red curry made with sweet Cuban chili peppers and coconut milk."
+              },
+              "price": 13,
+              "currency": "USD",
+              "image": "/images/dishes/curry-signature-origen.webp",
+              "imageAlt": {
+                "es": "Ilustración de Curry Signature Origen",
+                "en": "Illustration of Origen Signature Curry"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "sopa-de-curry-con-mariscos",
+              "name": {
+                "es": "Sopa de Curry con Mariscos",
+                "en": "Curry Soup with Seafood"
+              },
+              "description": {
+                "es": "Cremosa sopa de mariscos en caldo de coco y curry aromático, con un sutil toque de hierbas frescas.",
+                "en": "Creamy seafood soup in coconut broth and aromatic curry, with a subtle touch of fresh herbs."
+              },
+              "price": 10,
+              "currency": "USD",
+              "image": "/images/dishes/sopa-de-curry-con-mariscos.webp",
+              "imageAlt": {
+                "es": "Ilustración de Sopa de Curry con Mariscos",
+                "en": "Illustration of Curry Soup with Seafood"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "burger-signature-origen",
+              "name": {
+                "es": "Burger Signature Origen",
+                "en": "Origen Signature Burger"
+              },
+              "description": {
+                "es": "Carne premium, queso fundido, bacon, cebolla crujiente y nuestra famosa mayonesa secreta.",
+                "en": "Premium meat, melted cheese, bacon, crispy onion and our famous secret mayonnaise."
+              },
+              "price": 16,
+              "currency": "USD",
+              "image": "/images/dishes/burger-signature-origen.webp",
+              "imageAlt": {
+                "es": "Ilustración de Burger Signature Origen",
+                "en": "Illustration of Origen Signature Burger"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "platos-principales-pescados-y-mariscos",
+          "name": {
+            "es": "Pescados & Mariscos",
+            "en": "Fish & Seafood"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "pescado-blanco-sedoso",
+              "name": {
+                "es": "Pescado Blanco Sedoso",
+                "en": "Silky White Fish"
+              },
+              "description": {
+                "es": "Pescado blanco fresco sobre salsa de leche de coco, con patatas españolas doradas en un jugo delicado. Servido con arroz jazmín.",
+                "en": "Fresh white fish in coconut milk sauce, with golden Spanish potatoes in a delicate juice. Served with jasmine rice."
+              },
+              "price": 12,
+              "currency": "USD",
+              "image": "/images/dishes/pescado-blanco-sedoso.webp",
+              "imageAlt": {
+                "es": "Ilustración de Pescado Blanco Sedoso",
+                "en": "Illustration of Silky White Fish"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            }
+          ]
+        },
+        {
+          "id": "platos-principales-especiales-de-la-casa",
+          "name": {
+            "es": "Especiales de la Casa",
+            "en": "House Specials"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "el-consentido-origen",
+              "name": {
+                "es": "El Consentido Origen",
+                "en": "Origen's Favorite"
+              },
+              "description": {
+                "es": "El plato que la casa eligió como favorito: cocción lenta, un fondo profundo y un final ligeramente ahumado. Para pedirlo sin pensarlo dos veces.",
+                "en": "The dish the house chose as its favourite: slow cooking, a deep base and a lightly smoked finish. Order it without a second thought."
+              },
+              "price": 15,
+              "currency": "USD",
+              "image": "/images/dishes/el-consentido-origen.webp",
+              "imageAlt": {
+                "es": "Ilustración de El Consentido Origen",
+                "en": "Illustration of Origen's Favorite"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "miel-mar-y-candela",
+              "name": {
+                "es": "Miel Mar y Candela",
+                "en": "Miel Mar y Candela"
+              },
+              "description": {
+                "es": "Mar y fuego en el mismo plato: un glaseado de miel, un punto cítrico y el aroma de la brasa. Dulce, salino y persistente.",
+                "en": "Sea and fire on the same plate: a honey glaze, a citrus edge and the aroma of the grill. Sweet, saline and lingering."
+              },
+              "price": 14,
+              "currency": "USD",
+              "image": "/images/dishes/miel-mar-y-candela.webp",
+              "imageAlt": {
+                "es": "Ilustración de Miel Mar y Candela",
+                "en": "Illustration of Miel Mar y Candela"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "octavo-pecado",
+              "name": {
+                "es": "Octavo Pecado",
+                "en": "Eighth Sin"
+              },
+              "description": {
+                "es": "Intenso, sedoso y sin disculpas: el plato que la casa reserva para quien quiere caer en la tentación.",
+                "en": "Intense, silky and unapologetic: the dish the house keeps for anyone ready to give in to temptation."
+              },
+              "price": 14,
+              "currency": "USD",
+              "image": "/images/dishes/octavo-pecado.webp",
+              "imageAlt": {
+                "es": "Ilustración de Octavo Pecado",
+                "en": "Illustration of Eighth Sin"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "platos-principales-pastas",
+          "name": {
+            "es": "Pastas",
+            "en": "Pasta"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "gnocchi-4-quesos",
+              "name": {
+                "es": "Gnocchi 4 Quesos",
+                "en": "Four-Cheese Gnocchi"
+              },
+              "description": {
+                "es": "Suaves ñoquis de patata bañados en una cremosa salsa de cuatro quesos, terminados con parmesano y un delicado toque de pimienta negra.",
+                "en": "Soft potato gnocchi coated in a creamy four-cheese sauce, finished with Parmesan and a delicate touch of black pepper."
+              },
+              "price": 10,
+              "currency": "USD",
+              "image": "/images/dishes/gnocchi-4-quesos.webp",
+              "imageAlt": {
+                "es": "Ilustración de Gnocchi 4 Quesos",
+                "en": "Illustration of Four-Cheese Gnocchi"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "postres",
+      "slug": "postres",
+      "name": {
+        "es": "Postres",
+        "en": "Desserts"
+      },
+      "tagline": {
+        "es": "El final dulce que La Habana recuerda, con una copa de café al lado.",
+        "en": "The sweet ending Havana remembers, with a cup of coffee on the side."
+      },
+      "sortOrder": 6,
+      "sections": [
+        {
+          "id": "postres-postres",
+          "name": {
+            "es": "Postres",
+            "en": "Desserts"
+          },
+          "showHeading": false,
+          "dishes": [
+            {
+              "id": "cheesecake-de-dulce-de-leche-estilo-argentino",
+              "name": {
+                "es": "Cheesecake de Dulce de Leche Estilo Argentino",
+                "en": "Argentinian Style Dulce de Leche Cheesecake"
+              },
+              "description": {
+                "es": "Cheesecake argentino refinado, de textura aterciopelada, terminado con dulce de leche premium.",
+                "en": "Refined Argentine cheesecake, with a velvety texture, finished with premium dulce de leche."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/cheesecake-de-dulce-de-leche-estilo-argentino.webp",
+              "imageAlt": {
+                "es": "Ilustración de Cheesecake de Dulce de Leche Estilo Argentino",
+                "en": "Illustration of Argentinian Style Dulce de Leche Cheesecake"
+              },
+              "isRecommended": true,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "tiramisu-deconstruido",
+              "name": {
+                "es": "Tiramisú Deconstruido",
+                "en": "Deconstructed Tiramisu"
+              },
+              "description": {
+                "es": "Tiramisú elegante deconstruido con crema suave de mascarpone, bizcocho impregnado de espresso, cacao fino y notas de chocolate, reinterpretando el clásico italiano de forma moderna y refinada.",
+                "en": "Elegant tiramisu deconstructed with soft mascarpone cream, espresso-infused sponge cake, fine cocoa and chocolate notes, reinterpreting the Italian classic in a modern and refined way."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/tiramisu-deconstruido.webp",
+              "imageAlt": {
+                "es": "Ilustración de Tiramisú Deconstruido",
+                "en": "Illustration of Deconstructed Tiramisu"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "postre-del-dia",
+              "name": {
+                "es": "Postre del Día",
+                "en": "Dessert of the Day"
+              },
+              "description": {
+                "es": "Consulte con nuestro equipo la selección fresca preparada para hoy.",
+                "en": "Check with our team for the fresh selection prepared for today."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/postre-del-dia.webp",
+              "imageAlt": {
+                "es": "Ilustración de Postre del Día",
+                "en": "Illustration of Dessert of the Day"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cafe-y-digestivos",
+      "slug": "cafe-y-digestivos",
+      "name": {
+        "es": "Café & Digestivos",
+        "en": "Coffee & Digestifs"
+      },
+      "tagline": {
+        "es": "Café de altura, ron añejo y sobremesa larga. La última parte de la noche también se cuida.",
+        "en": "Highland coffee, aged rum and a long after-dinner conversation. The last part of the night matters too."
+      },
+      "sortOrder": 7,
+      "sections": [
+        {
+          "id": "cafe-y-digestivos-cafes-clasicos",
+          "name": {
+            "es": "Cafés Clásicos",
+            "en": "Classic Coffees"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "espresso",
+              "name": {
+                "es": "Espresso",
+                "en": "Espresso"
+              },
+              "description": {
+                "es": "Corto, intenso y aromático.",
+                "en": "Short, intense and aromatic."
+              },
+              "price": 2,
+              "currency": "USD",
+              "image": "/images/dishes/espresso.webp",
+              "imageAlt": {
+                "es": "Ilustración de Espresso",
+                "en": "Illustration of Espresso"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "cortado",
+              "name": {
+                "es": "Cortado",
+                "en": "Cortado"
+              },
+              "description": {
+                "es": "Espresso con un toque de leche.",
+                "en": "Espresso with a touch of milk."
+              },
+              "price": 2,
+              "currency": "USD",
+              "image": "/images/dishes/cortado.webp",
+              "imageAlt": {
+                "es": "Ilustración de Cortado",
+                "en": "Illustration of Cortado"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "cafe-americano",
+              "name": {
+                "es": "Café Americano",
+                "en": "American Coffee"
+              },
+              "description": {
+                "es": "Largo, suave y equilibrado.",
+                "en": "Long, smooth and balanced."
+              },
+              "price": 2,
+              "currency": "USD",
+              "image": "/images/dishes/cafe-americano.webp",
+              "imageAlt": {
+                "es": "Ilustración de Café Americano",
+                "en": "Illustration of American Coffee"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            },
+            {
+              "id": "cafe-con-leche",
+              "name": {
+                "es": "Café con Leche",
+                "en": "Coffee with Milk"
+              },
+              "description": {
+                "es": "Café y leche caliente en proporción clásica.",
+                "en": "Coffee and hot milk in classic proportion."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/cafe-con-leche.webp",
+              "imageAlt": {
+                "es": "Ilustración de Café con Leche",
+                "en": "Illustration of Coffee with Milk"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 3
+            },
+            {
+              "id": "cafe-bombon",
+              "name": {
+                "es": "Café Bombón",
+                "en": "Bombón Coffee"
+              },
+              "description": {
+                "es": "Espresso con leche condensada, dulce y cremoso.",
+                "en": "Espresso with condensed milk, sweet and creamy."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/cafe-bombon.webp",
+              "imageAlt": {
+                "es": "Ilustración de Café Bombón",
+                "en": "Illustration of Bombón Coffee"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 4
+            },
+            {
+              "id": "mocha",
+              "name": {
+                "es": "Mocha",
+                "en": "Mocha"
+              },
+              "description": {
+                "es": "Café, leche y cacao con textura sedosa.",
+                "en": "Coffee, milk and cocoa with silky texture."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/mocha.webp",
+              "imageAlt": {
+                "es": "Ilustración de Mocha",
+                "en": "Illustration of Mocha"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 5
+            },
+            {
+              "id": "cappuccino",
+              "name": {
+                "es": "Cappuccino",
+                "en": "Cappuccino"
+              },
+              "description": {
+                "es": "Espresso, leche vaporizada y espuma cremosa.",
+                "en": "Espresso, steamed milk and creamy foam."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/cappuccino.webp",
+              "imageAlt": {
+                "es": "Ilustración de Cappuccino",
+                "en": "Illustration of Cappuccino"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 6
+            }
+          ]
+        },
+        {
+          "id": "cafe-y-digestivos-cafes-con-licor",
+          "name": {
+            "es": "Cafés con Licor",
+            "en": "Liqueur Coffees"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "carajillo",
+              "name": {
+                "es": "Carajillo",
+                "en": "Carajillo"
+              },
+              "description": {
+                "es": "Espresso con licor intenso, cálido y digestivo.",
+                "en": "Espresso with intense, warm and digestive liquor."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/carajillo.webp",
+              "imageAlt": {
+                "es": "Ilustración de Carajillo",
+                "en": "Illustration of Carajillo"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "cafe-irlandes",
+              "name": {
+                "es": "Café Irlandés",
+                "en": "Irish Coffee"
+              },
+              "description": {
+                "es": "Café, whisky, azúcar y crema suave.",
+                "en": "Coffee, whiskey, sugar and soft cream."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/cafe-irlandes.webp",
+              "imageAlt": {
+                "es": "Ilustración de Café Irlandés",
+                "en": "Illustration of Irish Coffee"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "cafe-calypso",
+              "name": {
+                "es": "Café Calypso",
+                "en": "Calypso Coffee"
+              },
+              "description": {
+                "es": "Café con ron y caramelo.",
+                "en": "Coffee with rum and caramel."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/cafe-calypso.webp",
+              "imageAlt": {
+                "es": "Ilustración de Café Calypso",
+                "en": "Illustration of Calypso Coffee"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            },
+            {
+              "id": "cafe-royal",
+              "name": {
+                "es": "Café Royal",
+                "en": "Cafe Royal"
+              },
+              "description": {
+                "es": "Café con brandy o coñac; elegante y profundo.",
+                "en": "Coffee with brandy or cognac; elegant and deep."
+              },
+              "price": 7,
+              "currency": "USD",
+              "image": "/images/dishes/cafe-royal.webp",
+              "imageAlt": {
+                "es": "Ilustración de Café Royal",
+                "en": "Illustration of Cafe Royal"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 3
+            },
+            {
+              "id": "cafe-baileys",
+              "name": {
+                "es": "Café Baileys",
+                "en": "Baileys Coffee"
+              },
+              "description": {
+                "es": "Café con crema irlandesa; suave y goloso.",
+                "en": "Coffee with Irish cream; soft and sweet."
+              },
+              "price": 7,
+              "currency": "USD",
+              "image": "/images/dishes/cafe-baileys.webp",
+              "imageAlt": {
+                "es": "Ilustración de Café Baileys",
+                "en": "Illustration of Baileys Coffee"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "id": "cafe-y-digestivos-licores-y-digestivos",
+          "name": {
+            "es": "Licores & Digestivos",
+            "en": "Liqueurs & Digestifs"
+          },
+          "showHeading": true,
+          "dishes": [
+            {
+              "id": "frangelico",
+              "name": {
+                "es": "Frangelico",
+                "en": "Frangelico"
+              },
+              "description": {
+                "es": "Licor de avellanas dulce, aromático y perfecto para la sobremesa.",
+                "en": "Sweet, aromatic hazelnut liqueur perfect for after dinner."
+              },
+              "price": 6,
+              "currency": "USD",
+              "image": "/images/dishes/frangelico.webp",
+              "imageAlt": {
+                "es": "Ilustración de Frangelico",
+                "en": "Illustration of Frangelico"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 0
+            },
+            {
+              "id": "licor-pazo-pondal-cafe",
+              "name": {
+                "es": "Licor Pazo Pondal Café",
+                "en": "Pazo Pondal Coffee Liqueur"
+              },
+              "description": {
+                "es": "Licor de café aromático, dulce y de final intenso.",
+                "en": "Aromatic, sweet coffee liqueur with an intense finish."
+              },
+              "price": 5,
+              "currency": "USD",
+              "image": "/images/dishes/licor-pazo-pondal-cafe.webp",
+              "imageAlt": {
+                "es": "Ilustración de Licor Pazo Pondal Café",
+                "en": "Illustration of Pazo Pondal Coffee Liqueur"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 1
+            },
+            {
+              "id": "licor-baileys",
+              "name": {
+                "es": "Licor Baileys",
+                "en": "Baileys Liqueur"
+              },
+              "description": {
+                "es": "Crema irlandesa dulce y cremosa para disfrutar después de la comida.",
+                "en": "Sweet and creamy Irish cream to enjoy after your meal."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/licor-baileys.webp",
+              "imageAlt": {
+                "es": "Ilustración de Licor Baileys",
+                "en": "Illustration of Baileys Liqueur"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 2
+            },
+            {
+              "id": "crema-ruavieja-original",
+              "name": {
+                "es": "Crema Ruavieja Original",
+                "en": "Original Ruavieja Cream"
+              },
+              "description": {
+                "es": "Crema de licor suave, dulce y aterciopelada.",
+                "en": "Soft, sweet and velvety liqueur cream."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/crema-ruavieja-original.webp",
+              "imageAlt": {
+                "es": "Ilustración de Crema Ruavieja Original",
+                "en": "Illustration of Original Ruavieja Cream"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 3
+            },
+            {
+              "id": "brandy-torres-15",
+              "name": {
+                "es": "Brandy Torres 15",
+                "en": "Brandy Torres 15"
+              },
+              "description": {
+                "es": "Brandy añejo de perfil cálido, profundo y elegante.",
+                "en": "Aged brandy with a warm, deep and elegant profile."
+              },
+              "price": 4,
+              "currency": "USD",
+              "image": "/images/dishes/brandy-torres-15.webp",
+              "imageAlt": {
+                "es": "Ilustración de Brandy Torres 15",
+                "en": "Illustration of Brandy Torres 15"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 4
+            },
+            {
+              "id": "amaretto",
+              "name": {
+                "es": "Amaretto",
+                "en": "Amaretto"
+              },
+              "description": {
+                "es": "Licor dulce de almendras y especias, ideal para la sobremesa.",
+                "en": "Sweet almond and spice liqueur, ideal for after dinner."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/amaretto.webp",
+              "imageAlt": {
+                "es": "Ilustración de Amaretto",
+                "en": "Illustration of Amaretto"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 5
+            },
+            {
+              "id": "licor-anis-del-mono",
+              "name": {
+                "es": "Licor Anís del Mono",
+                "en": "Anís del Mono"
+              },
+              "description": {
+                "es": "Digestivo anisado, aromático y suave.",
+                "en": "Aniseed, aromatic and smooth digestive."
+              },
+              "price": 3,
+              "currency": "USD",
+              "image": "/images/dishes/licor-anis-del-mono.webp",
+              "imageAlt": {
+                "es": "Ilustración de Licor Anís del Mono",
+                "en": "Illustration of Anís del Mono"
+              },
+              "isRecommended": false,
+              "isNote": false,
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
